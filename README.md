@@ -1,7 +1,7 @@
 # Crop Recommendation System
 This is a Streamlit-based web application that predicts the best crop to grow based on user input of soil nutrients and weather conditions. It uses a trained Random Forest Classifier on the Crop_recommendation.csv dataset.
 
-![alt text](pic.png)
+![alt text](pic.PNG)
 
 ## Features
 Predicts the most suitable crop based on input parameters
@@ -16,7 +16,7 @@ Predicts the most suitable crop based on input parameters
 ## Dataset Used
 File: Crop_recommendation.csv
 
-![alt text](pic1.png)
+![alt text](pic1.PNG)
 
 ## Features:
 
@@ -67,5 +67,5 @@ Change Background: Replace background.jpg with your own image.
 Model Tuning: You can experiment with different ML models like SVM, XGBoost, or LightGBM.
 Add More Features: Extend the UI to include EDA visualizations or explainability with SHAP values.
 
-![alt text](code.png)
-![alt text](model_accuracy.png)
+![alt text](code.PNG)
+![alt text](model_accuracy.PNG)
